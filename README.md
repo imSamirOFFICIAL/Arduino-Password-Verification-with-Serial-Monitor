@@ -16,10 +16,7 @@ Next, open the `Experiment.pdsprj` file in Proteus. Double-click on `Arduino Uno
 
 ![Screenshot](https://github.com/imSamirOFFICIAL/ArduinoPasswordVerificationWithSerialMonitor/assets/52858312/2268bb67-685c-4327-abb8-0d8ec438eb5c)
 
-
 Boom! Everything is set up properly. Now, just click the `Run` button located in the bottom left corner and simulate the experiment.
-
-After running the simulation, a Virtual Monitor will be popup. Click on it and type the password. If you type wrong password then it will show "No access" and if you type right password then it will show "Thank you for logging in". Remember if the "Echo Typed Characters" is turned off, then what you are typing on Virtual Monitor will not show on the display. So, don't panic, just type.
 
 # Note
 After running the simulation, a `Virtual Monitor` will pop up. Click on it and type the password. There is no need to press the `Enter` button on the keyboard after typing the password. If you type the wrong password, it will display `No access`, and if you type the correct password, it will show `Thank you for logging in`. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Monitor will not be shown on the display. So, don't panic, just type.
