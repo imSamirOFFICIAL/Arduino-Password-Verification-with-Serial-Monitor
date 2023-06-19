@@ -3,7 +3,7 @@ This experiment demonstrates how to implement a password check functionality usi
 
 <p align="center"><img src="https://user-images.githubusercontent.com/52858312/243909805-7dfb607f-f92c-40a1-89bb-071e7c3796dd.png"width=40% height=40%></p>
 
-When the predefined password is written in serial monitor, it will print "Thank you for logging in". Otherwise, it will print "No access".
+When the predefined password is written in Serial Monitor, it will print "Thank you for logging in". Otherwise, it will print "No access".
 
 # How to run this?
 Now, first clone the repository. Then, inside the `Experiment` folder, open the `Experiment.ino` file in the Arduino IDE. If the `Arduino IDE` is opening for the first time on your operating system, after opening the Experiment.ino file, go to `File` > `Preferences` > tick the `Compile` option beside `Show verbose output during`. Then, click `OK`. (No need to repeat this task from the second time onwards.)
@@ -19,6 +19,6 @@ Next, open the `Experiment.pdsprj` file in Proteus. Double-click on `Arduino Uno
 Boom! Everything is set up properly. Now, just click the `Run` button located in the bottom left corner and simulate the experiment.
 
 # Note
-After running the simulation, a `Virtual Monitor` will pop up. Click on it and type the password. There is no need to press the `Enter` button on the keyboard after typing the password. If you type the wrong password, it will display `No access`, and if you type the correct password, it will show `Thank you for logging in`. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Monitor will not be shown on the display. So, don't panic, just type.
+After running the simulation, a `Virtual Terminal` will pop up. Click on it and type the password. There is no need to press the `Enter` button on the keyboard after typing the password. If you type the wrong password, it will display `No access`, and if you type the correct password, it will show `Thank you for logging in`. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Terminal will not be shown on the display. So, don't panic, just type.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/52858312/244093001-c516939b-ffa4-4a50-8755-c3ae91fe81f8.png"width=35% height=35%></p>
