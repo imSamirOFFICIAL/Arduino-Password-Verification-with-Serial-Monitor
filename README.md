@@ -21,4 +21,4 @@ Boom! Everything is set up properly. Now, just click the `Run` button located in
 # Note
 After running the simulation, a `Virtual Monitor` will pop up. Click on it and type the password. There is no need to press the `Enter` button on the keyboard after typing the password. If you type the wrong password, it will display `No access`, and if you type the correct password, it will show `Thank you for logging in`. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Monitor will not be shown on the display. So, don't panic, just type.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/52858312/244093001-c516939b-ffa4-4a50-8755-c3ae91fe81f8.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/52858312/244093001-c516939b-ffa4-4a50-8755-c3ae91fe81f8.png"width=35% height=35%></p>
