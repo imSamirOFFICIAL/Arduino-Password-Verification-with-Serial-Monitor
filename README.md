@@ -1,5 +1,5 @@
-# Password Verification with Serial Monitor (Virtual Terminal) using Arduino Uno in Proteus
-This experiment demonstrates how to implement a password check functionality using an Arduino board and simulate it in Proteus using the Virtual Terminal component. The experiment showcases the process of inputting a password through the Virtual Terminal and verifying it against a predefined password in the Arduino code.
+# Password Verification with Serial Monitor using Arduino Uno in Proteus
+This experiment demonstrates how to implement a password check functionality using an Arduino board and simulate it in Proteus using the Serial Monitor (Virtual Terminal) component. The experiment showcases the process of inputting a password through the Virtual Terminal and verifying it against a predefined password in the Arduino code.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/52858312/243909805-7dfb607f-f92c-40a1-89bb-071e7c3796dd.png"width=40% height=40%></p>
 
